@@ -1,0 +1,31 @@
+---
+title: "Li Xuecong"
+image: images/lixuecong_2025.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: xuecong.li@tecnico.ulisboa.pt
+      href: mailto:xuecong.li@tecnico.ulisboa.pt
+    - icon: github
+      text: arlionn
+      href: https://github.com/xl6053
+---
+
+::: {#hero-heading}
+
+ Li Xuecong Now is doing Ph.D study in University of Lisbon/Institute of systems and robots Lisbon
+ The initial motivation for his research idea was to design a user-friendly human-computer interaction paradigm for 3D Appearance Authoring based on Gaussion splatting. The goal was to allow for semantically-unconstrained scribbling on 2D images (such as applying custom textures or markings), thereby addressing the core problems of geometric ambiguity and limited creative freedom.
+
+
+## Background
+
+
+- 2025 - Present: Ph.D candicate,University of Lisbon,Programe of Digital Media
+- 2023-2024: Master in Science, University of Exeter, UK, specializing in Aplied Data Science and Statistics
+- 2016-2020: Bachelor of Economics, Shenyang Aerospacce University, China, majoring in International Economics and Trade.
+
+:::
