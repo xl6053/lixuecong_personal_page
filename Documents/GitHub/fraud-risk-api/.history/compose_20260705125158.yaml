@@ -1,0 +1,9 @@
+services:
+  fraud-api:
+    image: fraud-risk-api:0.3
+    container_name: fraud-api-container
+    ports:
+      - "8000:8000"
+    environment:
+      MODEL_VERSION: "rule-based-v2"
+      SERVICE_NAME: "fraud-risk-api"
